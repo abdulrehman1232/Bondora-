@@ -316,14 +316,14 @@ You can see my notebook. All  the work is explained in detail.
 
 ### AUTHOR
 <hr>
-<strong>Shehryar Gondal</strong>
+<strong>Abdul Rehman</strong>
 
 
 You can get in touch with me on my LinkedIn Profile:<br>
- <a href = "https://linkedin.com/in/shehryar-gondal-data-analyst"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+ <a href = "https://www.linkedin.com/in/abdul-rehman-80b1311a8/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 You can also follow my GitHub Profile to stay updated about my latest projects:<br>
-<a href = "https://github.com/ShehryarGondal1"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
+<a href = "https://github.com/abdulrehman1232"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
 
 
 If you liked the repo then kindly support it by giving it a star ⭐.
